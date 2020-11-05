@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Blood</string>
+    <string-array name="BloodGrp">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+    <string-array name="LastDonet">
+
+        <item>more then 4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_edit_location">Map</string>
+</resources>
