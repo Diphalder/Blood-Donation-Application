@@ -33,7 +33,7 @@ When app turn on autocatically it takes user current location and update the use
 
 - Blood reciver also has a location where he needs blood so Donner can found his/her place easly . 
 
-### 7. Donner information : (store on FireBase) 
+### 7. Donner information : (store in FireBase) 
 
    ##### - Name 
    ##### - Age
