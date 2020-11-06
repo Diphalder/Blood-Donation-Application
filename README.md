@@ -26,14 +26,14 @@ This feature is for the urgent moment who needs blood . User can select blood an
 
 This feature for the user who wants to donate blood viewing those blood request message. 
 
-### 6. User location and Donner location : 
+### 6. User location and Donner location : (Google Map)
 
 - This is a special feature in this app . When the user fillup the info form the form automatically takes the current Location ( logitude and latitude) of the person and store it on the Firebase . It also be customazied from the app , user can also update is location .
 When app turn on autocatically it takes user current location and update the user information . The people who needs blood using this location easily can be found . 
 
 - Blood reciver also has a location where he needs blood so Donner can found his/her place easly . 
 
-### 7. Donner information : 
+### 7. Donner information : (store on FireBase) 
 
    ##### - Name 
    ##### - Age
