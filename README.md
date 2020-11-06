@@ -45,9 +45,15 @@ When app turn on autocatically it takes user current location and update the use
 
 ### 8. Edit user info : 
 
+User can easily edit his/her profile information using this feature . like name , age , phone number and also his password . 
 
 
 
 
-## [Download this app ]( https://drive.google.com/file/d/1okfdtyw67KmiwPCkfiTsyPQU0inhOkM6/view?usp=sharing)
+
+
+
+
+
+# [Download this app ]( https://drive.google.com/file/d/1okfdtyw67KmiwPCkfiTsyPQU0inhOkM6/view?usp=sharing)
 
