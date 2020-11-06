@@ -12,15 +12,23 @@
 
 ### 2. Sign In : 
    
-   If the user create an account by user his/her phone number and password .
+   If the user create an account by user his/her phone number and password . The app remains loged in user profile untill user logout for his/her account . 
 
 ### 3. Add Message : 
 
+This feature can also be used without login for urgent blood . Real time data base store this message .This message is for the Donner who wanted to donate blood . 
+
 ### 4. Urgent Call : 
+
+This feature is for the urgent moment who needs blood . User can select blood and find availble person's contract number and his Google Map location so that he could be easily found . 
 
 ### 5. View Messages : 
 
+This feature for the user who wants to donate blood viewing those blood request message. 
+
 ### 6. User location and Donner location : 
+
+This is a special feature in this app .  
 
 ### 7. Donner information : 
 
