@@ -20,7 +20,7 @@ This feature can also be used without login for urgent blood . Real time data ba
 
 ### 4. Urgent Call : 
 
-This feature is for the urgent moment who needs blood . User can select blood and find availble person's contract number and his Google Map location so that he could be easily found . 
+This feature is for the urgent moment who needs blood . User can select blood and find availble person's contract number and his Google Map location so that he can be easily found . 
 
 ### 5. View Messages : 
 
@@ -28,9 +28,14 @@ This feature for the user who wants to donate blood viewing those blood request 
 
 ### 6. User location and Donner location : 
 
-This is a special feature in this app .  
+- This is a special feature in this app . When the user fillup the info form the form automatically takes the current Location ( logitude and latitude) of the person and store it on the Firebase . It also be customazied from the app , user can also update is location .
+When app turn on autocatically it takes user current location and update the user information . The people who needs blood using this location easily can be found . 
+
+- Blood reciver also has a location where he needs blood so Donner can found his/her place easly . 
 
 ### 7. Donner information : 
+
+
 
 ### 8. Edit user info : 
 
