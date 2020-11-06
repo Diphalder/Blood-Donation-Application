@@ -8,6 +8,8 @@
 
 ### 1. Sign Up : 
 
+   SignUp form for the new users to create a new account . The contract number of the person remains unique . The account also have an unique password (more the 6 character) by which user can login . 
+
 ### 2. Sign In : 
 
 ### 3. Add Message : 
