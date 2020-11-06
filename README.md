@@ -8,9 +8,11 @@
 
 ### 1. Sign Up : 
 
-   SignUp form for the new users to create a new account . The contract number of the person remains unique . The account also have an unique password (more the 6 character) by which user can login . 
+   SignUp form for the new users to create a new account . The contract number of the person remains unique . The account also have an unique password (more the 6 character) by which user can login . The information of the user store in Google Firebase which is a real time data base .   
 
 ### 2. Sign In : 
+   
+   If the user create an account by user his/her phone number and password .
 
 ### 3. Add Message : 
 
